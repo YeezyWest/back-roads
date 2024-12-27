@@ -1,8 +1,6 @@
 import aboutImg from "../images/about.jpeg";
 import { Title } from "./title";
 
-
-
 export const About = () => {
   return (
     <section className="section" id="about">
@@ -15,9 +13,9 @@ export const About = () => {
         <article className="about-info">
           <h3>explore the difference</h3>
           <p>
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aspernatur
-            quisquam harum nam cumque temporibus explicabo dolorum sapiente odio
-            unde dolor?
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium
+            ipsam commodi error numquam quidem dolores placeat hic mollitia quo
+            molestias!
           </p>
           <p>
             Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aspernatur

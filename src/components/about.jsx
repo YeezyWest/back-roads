@@ -18,9 +18,7 @@ export const About = () => {
             molestias!
           </p>
           <p>
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aspernatur
-            quisquam harum nam cumque temporibus explicabo dolorum sapiente odio
-            unde dolor?
+           Lorem ipsum dolor sit amet consectetur, adipisicing elit. Iste accusantium delectus eum ad, et earum eaque error placeat id tempore odit nesciunt culpa maiores sequi est possimus reiciendis velit soluta aliquid sint fugit officiis quia! Reprehenderit, perspiciatis doloribus! Odit eaque beatae expedita voluptates assumenda deserunt, minima ipsam repellendus dicta vero.
           </p>
           <a href="#about" className="btn">
             read more
